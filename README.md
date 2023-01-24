@@ -114,12 +114,16 @@ endmodule
 ![](/output3.png)
 
 ## TIMING DIGRAMS :
+### ENCODER :
 ![](/output2.png)
+### DECODE:
 ![](/output4.png)
 
 
 ## TRUTH TABLE :
+### ENCODER:
 ![](/output5.png)
+### DECODE:
 ![](/output6.jpg)
 
 ## RESULTS :
